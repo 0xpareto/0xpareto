@@ -7,4 +7,4 @@
 - 🔥 Trading Volatility
 - 🔗 On-Chain Marketmaking
 - 🔬 On-Chain Research
-
+- 🖼️ Solana NFT Analytics
